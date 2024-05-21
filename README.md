@@ -16,7 +16,7 @@ NodeJS serice that generates PDF files in the server side, useful when need a mi
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=masmerino13&show_icons=true&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=masmerino13&show_icons=true&count_private=true&include_all_commits=true)
 
 ## 📫 How to reach me
 
