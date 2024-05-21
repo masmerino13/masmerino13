@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ricardo Merino 👋
 
 I'm a passionate software developer with expertise in Node.js, TypeScript, and Golang. I love building web applications and contributing to open-source projects.
 
