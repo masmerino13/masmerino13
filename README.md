@@ -1,4 +1,4 @@
-# Hi there, I'm Ricardo Merino 👋
+  # Hi there, I'm Ricardo Merino 👋
 
 I'm a passionate software developer with expertise in Node.js, TypeScript, and Golang. I love building web applications and contributing to open-source projects.
 
@@ -8,6 +8,7 @@ I'm a passionate software developer with expertise in Node.js, TypeScript, and G
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -20,6 +21,10 @@ NodeJS serice that generates PDF files in the server side, useful when need a mi
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=masmerino13&show_icons=true&count_private=true&include_all_commits=true)
+
+## 💻 Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masmerino13&layout=compact)
 
 ## 📫 How to reach me
 
