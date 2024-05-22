@@ -28,7 +28,7 @@ Still in progress, but this is a starter kit that includes users auth, profile, 
 
 ## 💻 Most Used Languages
 
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=masmerino13&langs_count=20](https://github-readme-stats.vercel.app/api/top-langs/?username=masmerino13&layout=donut-vertical&langs_count=20))
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical](https://github-readme-stats.vercel.app/api/top-langs/?username=masmerino13&layout=donut-vertical&langs_count=20))](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to reach me
 
