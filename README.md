@@ -28,7 +28,7 @@ Still in progress, but this is a starter kit that includes users auth, profile, 
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masmerino13&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masmerino13&langs_count=20)
 
 ## 📫 How to reach me
 
