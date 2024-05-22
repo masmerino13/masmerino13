@@ -19,7 +19,7 @@ I'm a passionate software developer with expertise in Node.js, TypeScript, and G
 ### [Headless Service - PDF Generator](https://github.com/masmerino13/pdf-generator)
 NodeJS serice that generates PDF files in the server side, useful when need a microservice that generates in the server side consumed by a queue providing requierd info.
 
-### [Golang Rest API](https://github.com/masmerino13/golang-rest-api)
+### [Golang REST API](https://github.com/masmerino13/golang-rest-api)
 Still in progress, but this is a starter kit that includes users auth, profile, DB migrations, token authorization.
 
 ## 📊 GitHub Stats
