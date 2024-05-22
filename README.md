@@ -30,6 +30,8 @@ Still in progress, but this is a starter kit that includes users auth, profile, 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masmerino13&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masmerino13&langs_count=10)
+
 ## 📫 How to reach me
 
 - Email: [masmerino@gmail.com](mailto:masmerino@gmail.com)
