@@ -32,6 +32,6 @@ Still in progress, but this is a starter kit that includes users auth, profile, 
 
 ## 📫 How to reach me
 
-- Email: [masmerino@gmail.com](mailto:masmerino@gmail.com)
+- Email: [hi@masmerino.dev](mailto:hi@masmerino.dev)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ricardomerino/)
 - X: [@masmerinosv](https://x.com/masmerinosv)
